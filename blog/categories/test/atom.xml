@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Test | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Test | Boats' /dev/null]]></title>
   <link href="http://fvoges.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://fvoges.github.io/"/>
-  <updated>2014-02-02T15:07:57+00:00</updated>
+  <updated>2014-02-02T15:13:57+00:00</updated>
   <id>http://fvoges.github.io/</id>
   <author>
     <name><![CDATA[Federico Voges]]></name>
