@@ -3,4 +3,4 @@ fvoges.github.io
 
 Octopress
 
-[http://fvoges.github.io]
+http://fvoges.github.io
