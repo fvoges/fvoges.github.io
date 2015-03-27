@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Test | Boats' /dev/null]]></title>
-  <link href="http://fvoges.github.io/blog/categories/test/atom.xml" rel="self"/>
-  <link href="http://fvoges.github.io/"/>
-  <updated>2014-02-02T17:44:38+00:00</updated>
-  <id>http://fvoges.github.io/</id>
+  <link href="http://boats.ninja/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://boats.ninja/"/>
+  <updated>2015-03-27T19:05:54+00:00</updated>
+  <id>http://boats.ninja/</id>
   <author>
     <name><![CDATA[Federico Voges]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Probando Octopress]]></title>
-    <link href="http://fvoges.github.io/blog/2014/02/02/probando-octopress/"/>
+    <link href="http://boats.ninja/blog/2014/02/02/probando-octopress/"/>
     <updated>2014-02-02T15:03:27+00:00</updated>
-    <id>http://fvoges.github.io/blog/2014/02/02/probando-octopress</id>
+    <id>http://boats.ninja/blog/2014/02/02/probando-octopress</id>
     <content type="html"><![CDATA[<p>Test</p>
 ]]></content>
   </entry>

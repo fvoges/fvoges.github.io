@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://fvoges.github.io/sitemap.xml 
+Sitemap: http://boats.ninja/sitemap.xml 
