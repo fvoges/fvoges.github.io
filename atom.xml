@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Boats' /dev/null]]></title>
+  <title><![CDATA[Boats dot Ninja]]></title>
   <link href="http://boats.ninja/atom.xml" rel="self"/>
   <link href="http://boats.ninja/"/>
-  <updated>2015-03-27T19:51:53+00:00</updated>
+  <updated>2015-03-27T20:12:49+00:00</updated>
   <id>http://boats.ninja/</id>
   <author>
     <name><![CDATA[Federico Voges]]></name>
