@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | Boats' /dev/null]]></title>
+  <link href="http://boats.ninja/octopress/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://boats.ninja/octopress/"/>
+  <updated>2015-03-27T19:15:32+00:00</updated>
+  <id>http://boats.ninja/octopress/</id>
+  <author>
+    <name><![CDATA[Federico Voges]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Probando Octopress]]></title>
+    <link href="http://boats.ninja/octopress/blog/2014/02/02/probando-octopress/"/>
+    <updated>2014-02-02T15:03:27+00:00</updated>
+    <id>http://boats.ninja/octopress/blog/2014/02/02/probando-octopress</id>
+    <content type="html"><![CDATA[<p>Test</p>
+
+<p>Edit: moar test.</p>
+]]></content>
+  </entry>
+  
+</feed>
