@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://boats.ninja/octopress/sitemap.xml 
+Sitemap: http://boats.ninja/sitemap.xml 
