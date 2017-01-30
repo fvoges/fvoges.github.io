@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Boats dot Ninja]]></title>
-  <link href="https://boats.ninja/atom.xml" rel="self"/>
-  <link href="https://boats.ninja/"/>
+  <link href="http://boats.ninja/atom.xml" rel="self"/>
+  <link href="http://boats.ninja/"/>
   <updated>2017-01-30T19:23:20+00:00</updated>
-  <id>https://boats.ninja/</id>
+  <id>http://boats.ninja/</id>
   <author>
     <name><![CDATA[Federico Voges]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New Octopress Version and Domain]]></title>
-    <link href="https://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain/"/>
+    <link href="http://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain/"/>
     <updated>2015-03-27T19:57:18+00:00</updated>
-    <id>https://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain</id>
+    <id>http://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain</id>
     <content type="html"><![CDATA[<p>I setup this last year and haven&rsquo;t touched since then. A few months back, I&rsquo;ve found out that you can register <code>.ninja</code> and <code>.rocks</code>. So I <em>had</em> to go and register <code>boats.ninja</code> and <code>boats.rocks</code>. I also registered <code>voges.photo</code> and <code>voges.photography</code>, but that&rsquo;s for another post.</p>
 
 <p>Today, on my way back to London, I decided to finally use the new domains for something. That something is this blog (that was actually the plan when I registered them).</p>

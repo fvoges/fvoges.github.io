@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain/</loc>
+<loc>http://boats.ninja/blog/2015/03/27/new-octopress-version-and-domain/</loc>
 <lastmod>2015-03-27T19:57:18+00:00</lastmod>
 </url>
 <url>
-<loc>https://boats.ninja/blog/archives/</loc>
+<loc>http://boats.ninja/blog/archives/</loc>
 </url>
 <url>
-<loc>https://boats.ninja/</loc>
+<loc>http://boats.ninja/</loc>
 </url>
 <url>
-<loc>https://boats.ninja/about/</loc>
+<loc>http://boats.ninja/about/</loc>
 </url>
 <url>
-<loc>https://boats.ninja/blog/categories/random/</loc>
+<loc>http://boats.ninja/blog/categories/random/</loc>
 </url>
 </urlset>

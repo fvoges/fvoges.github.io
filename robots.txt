@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://boats.ninja/sitemap.xml 
+Sitemap: http://boats.ninja/sitemap.xml 
