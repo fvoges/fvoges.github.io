@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Boats dot Ninja]]></title>
-  <link href="http://boats.ninja/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Random | Boats dot Ninja]]></title>
+  <link href="http://boats.ninja/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://boats.ninja/"/>
   <updated>2017-01-30T19:21:01+00:00</updated>
   <id>http://boats.ninja/</id>
